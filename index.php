@@ -16,7 +16,7 @@ class DBike {
 
 $listOfBikes = [];
 
-for($i=0; $i < 10; i++) {
+for($i=0; $i < 10; $i++) {
 
     $bike = new DBike;
     $bike->number=$i;
